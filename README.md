@@ -1,14 +1,12 @@
-# DSA_CCE2_MusicPlaylist
-Music Playlist Manager using Doubly Linked List in C++
-
+Music Playlist Manager Using Doubly Linked List
 
 1. Introduction
 
-The Music Playlist Manager is a C++ project that manages songs using a Doubly Linked List.
+The Music Playlist Manager is a menu-driven C++ application that manages songs using a Doubly Linked List.
 
 2. Objective
 
-To implement insertion, deletion, forward traversal, reverse traversal, and song navigation using a Doubly Linked List.
+The objective is to implement a music playlist and navigate between songs in forward and backward directions using a Doubly Linked List.
 
 3. Data Structure Used
 
@@ -29,8 +27,9 @@ Each node contains:
 5. Play current song
 6. Play next song
 7. Play previous song
-8. Play complete playlist
-9. Repeat all songs
+8. Play the complete playlist
+9. Repeat all songs for one cycle
+10. Display the current song
 
 5. Programming Language
 
@@ -38,4 +37,4 @@ C++
 
 6. Conclusion
 
-This project demonstrates how a Doubly Linked List can be used to manage a music playlist and navigate between songs in both directions.
+This project demonstrates the use of a Doubly Linked List to manage a music playlist and navigate between songs in both directions.s.
